@@ -1,0 +1,4 @@
+[core]
+    remote = model_apps
+['remote "model_apps"']
+    url = gdrive://1K0DaIZMCGR-5Nm3baG6Zew3ixKUv0-kx
